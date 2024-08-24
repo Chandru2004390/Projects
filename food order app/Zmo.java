@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Zmo {
     static int t=0;
     static boolean a = true;
-    static boolean yes = false;
+    static boolean yes = false
     static Scanner sc = new Scanner(System.in);
 
     public static void main(String[]args) throws InterruptedException {
